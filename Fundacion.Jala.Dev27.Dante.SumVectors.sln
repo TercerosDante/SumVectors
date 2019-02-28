@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumVectors", "SumVectors\SumVectors.csproj", "{BF5ACBAC-26A0-4EBB-95DD-8AEF82C28433}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorTest", "VectorTest\VectorTest.csproj", "{9E2A6138-A54B-4D05-B848-446F37002CE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BF5ACBAC-26A0-4EBB-95DD-8AEF82C28433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5ACBAC-26A0-4EBB-95DD-8AEF82C28433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5ACBAC-26A0-4EBB-95DD-8AEF82C28433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2A6138-A54B-4D05-B848-446F37002CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2A6138-A54B-4D05-B848-446F37002CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2A6138-A54B-4D05-B848-446F37002CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2A6138-A54B-4D05-B848-446F37002CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
